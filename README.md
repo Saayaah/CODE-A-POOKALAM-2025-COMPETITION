@@ -5,7 +5,7 @@
 - **Name:** SAYANTH KRISHNA KS
 - **Institution/Company:** RIT KOTTAYAM
 - **GitHub:** https://github.com/Saayaah
-- **Programming Language Used:** 
+- **Programming Language Used:** p5.js for the script and html & css for hosting a canvas
 
 ## 🎨 My Pookalam
 
@@ -23,8 +23,12 @@ This is an interactive digital artwork that reimagines the traditional Onam pook
 
 
 ### Features
-- colour changes in a time period of 6 seconds
-- interactive riples on a mouse click
+- colour changes in a  specific time period 
+- interactive ripples on a mouse click
+- background system of soft, glowing particles that  adds depth
+- Each of the 14 layers, from the outer petals to the central star, is created from scratch using mathematical functions.
+
+
 
 ## 🚀 How to Run
 
@@ -46,4 +50,4 @@ Code-a-Pookalam-2025/
 
 ## 🎊 Happy Onam! 🎊
 *Submitted for Code-a-Pookalam 2025 by TinkerHub RIT*
-```
+
