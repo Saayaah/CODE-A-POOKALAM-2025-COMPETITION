@@ -36,6 +36,7 @@ This is an interactive digital artwork that reimagines the traditional Onam pook
 -no prerequisites
 
 ### Running the Code
+
 - just change the file name to index.html and run in your browser
 - or directly run using vs code
 
