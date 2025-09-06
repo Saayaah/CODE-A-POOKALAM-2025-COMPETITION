@@ -1,42 +1,32 @@
-```markdown
+
 # 🌸 [Your Name]'s Pookalam 2025 🌸
 
 ## 👨‍💻 About Me
-- **Name:** [Your Full Name]
-- **Institution/Company:** [Your School/College/Company]
-- **GitHub:** [@your-username](https://github.com/your-username)
-- **Programming Language Used:** [Language]
+- **Name:** SAYANTH KRISHNA KS
+- **Institution/Company:** RIT KOTTAYAM
+- **GitHub:** https://github.com/Saayaah
+- **Programming Language Used:** 
 
 ## 🎨 My Pookalam
 
 ### Description
-[Write a brief description of your Pookalam design, inspiration, or the approach you took]
+This is an interactive digital artwork that reimagines the traditional Onam pookalam as a dynamic one built with 14 layers 
 
 ### Preview
-![My Pookalam](output/pookalam-preview.png)
-*Add more images if you have multiple views or animations*
+
 
 ### Features
-- [Feature 1 - e.g., "Colorful geometric patterns"]
-- [Feature 2 - e.g., "Interactive elements"]
+- colour changes in a time period of 6 seconds
+- interactive riples on a mouse click
 
 ## 🚀 How to Run
 
 ### Prerequisites
-[List any requirements, libraries, or software needed]
-```bash
-# Example for Python
-pip install matplotlib turtle numpy
-```
+-no prerequisites
 
 ### Running the Code
-```bash
-# Add your specific run commands here
-python pookalam.py
-# or
-open index.html
-# or your specific instructions
-```
+-just change the file name to index.html and run in your browser
+- or directly run using vs code
 
 ## 📁 File Structure
 ```
