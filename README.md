@@ -33,7 +33,7 @@ This is an interactive digital artwork that reimagines the traditional Onam pook
 ## 🚀 How to Run
 
 ### Prerequisites
--no prerequisites
+- no prerequisites
 
 ### Running the Code
 
