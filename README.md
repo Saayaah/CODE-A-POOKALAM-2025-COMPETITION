@@ -1,5 +1,5 @@
 
-# 🌸 [Your Name]'s Pookalam 2025 🌸
+# 🌸 Sayanth's Pookalam 2025 🌸
 
 ## 👨‍💻 About Me
 - **Name:** SAYANTH KRISHNA KS
@@ -13,6 +13,13 @@
 This is an interactive digital artwork that reimagines the traditional Onam pookalam as a dynamic one built with 14 layers 
 
 ### Preview
+![img1](1.png)
+![img2](2.png)
+![img3](3.png)
+![img4](4.png)
+![img5](5.png)
+
+
 
 
 ### Features
@@ -32,8 +39,9 @@ This is an interactive digital artwork that reimagines the traditional Onam pook
 ```
 Code-a-Pookalam-2025/
 ├── README.md (this file)
-├── pookalam.py (or your main file)
-└── requirements.txt (if applicable)
+├── Pookalamrit.html
+└── 1.png,2.png,3.png,4.png,5.png
+
 ```
 
 ## 🎊 Happy Onam! 🎊
